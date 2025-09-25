@@ -37,14 +37,14 @@ bash
 2
 3
 4
-git clone https://github.com/your-username/bh-eduplay.git
+
 cd bh-eduplay
 pip install -r requirements.txt
 streamlit run end_cv_pro2.py
 🌐 نشر المشروع
 تم تصميم المشروع ليكون جاهزًا للنشر على Streamlit Community Cloud — مجاني وسهل الاستخدام.
-انقر هنا لرؤية العرض التوضيحي المباشر (استبدل الرابط برابطك بعد النشر)
-
+انقر هنا لرؤية العرض التوضيحي المباشر)
+git clone [https://github.com/your-username/bh-eduplay.git](https://bh-eduplay-2k8bygvfoxtxlvhbuohody.streamlit.app/)
 📚 مناسب لـ
 طلاب علوم الحاسوب والهندسة
 معلّمي معالجة الصور والرؤية الحاسوبية

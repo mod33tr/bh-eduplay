@@ -31,6 +31,7 @@ Matplotlib (للرسوم البيانية — اختياري)
 تأكد من تثبيت Python 3.9+
 نفّذ الأوامر التالية:
 bash
+git clone https://bh-eduplay-2k8bygvfoxtxlvhbuohody.streamlit.app/
 
 
 1
@@ -44,7 +45,6 @@ streamlit run end_cv_pro2.py
 🌐 نشر المشروع
 تم تصميم المشروع ليكون جاهزًا للنشر على Streamlit Community Cloud — مجاني وسهل الاستخدام.
 انقر هنا لرؤية العرض التوضيحي المباشر)
-git clone [https://github.com/your-username/bh-eduplay.git](https://bh-eduplay-2k8bygvfoxtxlvhbuohody.streamlit.app/)
 📚 مناسب لـ
 طلاب علوم الحاسوب والهندسة
 معلّمي معالجة الصور والرؤية الحاسوبية

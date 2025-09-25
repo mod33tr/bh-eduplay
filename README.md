@@ -53,14 +53,7 @@ Matplotlib
 🚀 كيفية التشغيل محليًا
 تأكد من تثبيت Python 3.9+
 نفّذ الأوامر التالية في Terminal:
-bash
 
-
-1
-2
-3
-4
-git clone https://bh-eduplay-2k8bygvfoxtxlvhbuohody.streamlit.app/
 
 cd bh-eduplay
 pip install -r requirements.txt
@@ -70,6 +63,9 @@ streamlit run end_cv_pro2.py
 ✅ سيتم فتح التطبيق تلقائيًا في متصفحك على http://localhost:8501 
 
 🔗 انقر هنا لرؤية العرض التوضيحي المباشر
+
+https://bh-eduplay-2k8bygvfoxtxlvhbuohody.streamlit.app/
+
 
 📚 لمن هذا المشروع؟
 🎓 الطلاب في تخصصات علوم الحاسوب، الذكاء الاصطناعي، والهندسة
@@ -91,7 +87,7 @@ streamlit run end_cv_pro2.py
 🌍 مشروع تعليمي غير ربحي — لنشر المعرفة وتمكين المتعلمين في كل مكان
 💌 أسئلة؟ اقتراحات؟ تواصل معنا عبر GitHub Issues!
 
-git clone  https://github.com/mod33tr/bh-eduplay.git
+https://github.com/mod33tr/bh-eduplay.git
 
 
 ✨ تعلّم. جرّب. أبدع.
